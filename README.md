@@ -1,4 +1,4 @@
-# Active-Directory-Security-Monitoring-Threat-Detection-Home-Lab-
+# Active-Directory-Security-Monitoring-Threat-Detection-Home-Lab
 
 ## Overview
 This project demonstrates a simulated enterprise security monitoring environment. It focuses on building and securing an Active Directory (AD) domain, collecting logs with Splunk, simulating cyberattacks, and analyzing events for threat detection
